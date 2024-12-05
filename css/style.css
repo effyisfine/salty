@@ -31,11 +31,11 @@ body {margin: 0; background-color: #111;}
 
 .video_con.site01 {right: 14%; top: 43%;}
 .video_con.site02 {top: 20%; right: 12%;}
-#video02 video, #video03 video, #video04 video, #video05 video {width: 60%;}
+#video02 video, #video03 video, #video04 video, #video05 video, #video06 video, #video07 video, #video08 video, #video09 video {width: 60%;}
 .video_con.site03 {top: 19%; right: 12%;}
 .video_con.site04 {bottom: 30%; right: 10%;}
-.video_con.site05 {bottom: 30%; left: 50%; transform: translateX(-50%);}
-.video_con.site06 {left: 50%; top: 50%; transform: translate(-50%, -50%);}
+.video_con.site09 {bottom: 30%; left: 50%; transform: translateX(-50%);}
+.video_con.site05, .video_con.site06, .video_con.site07, .video_con.site08, .video_con.site10 {left: 50%; top: 50%; transform: translate(-50%, -50%);}
 
 .play_box {width: 100%; position: absolute; top: 50%; left: 50%; background-color: #00000075; transform: translate(-50%, -50%); display: flex; align-items: center; justify-content: center; height: 100%; z-index: 0; visibility: hidden;}
 .play_box.on {visibility: visible; z-index: 15;}
