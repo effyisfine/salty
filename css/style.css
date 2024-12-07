@@ -32,6 +32,7 @@ body {margin: 0; background-color: #111;}
 .video_con.site01 {right: 14%; top: 43%;}
 .video_con.site02 {top: 20%; right: 12%;}
 #video02 video, #video03 video, #video04 video, #video05 video, #video06 video, #video07 video, #video08 video, #video09 video {width: 60%;}
+#video10 video {width: 85%;}
 .video_con.site03 {top: 19%; right: 12%;}
 .video_con.site04 {bottom: 30%; right: 10%;}
 .video_con.site09 {bottom: 30%; left: 50%; transform: translateX(-50%);}
